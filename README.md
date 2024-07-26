@@ -105,17 +105,18 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～7月26日、お隣との境にある花壇の補強工事～～～<br><br></span></h3>
 
+<a href="20240726_007.JPG" data-lightbox="abc"><img src="20240726_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240726_008.JPG" data-lightbox="abc"><img src="20240726_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_001.JPG" data-lightbox="abc"><img src="20240726_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_002.JPG" data-lightbox="abc"><img src="20240726_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_003.JPG" data-lightbox="abc"><img src="20240726_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_004.JPG" data-lightbox="abc"><img src="20240726_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_005.JPG" data-lightbox="abc"><img src="20240726_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_006.JPG" data-lightbox="abc"><img src="20240726_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_007.JPG" data-lightbox="abc"><img src="20240726_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240726_008.JPG" data-lightbox="abc"><img src="20240726_008.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <h3><span class="yellow"><br>～～～7月18日、2日でかなり進んでます～～～<br><br></span></h3>
-<a href="20240718_001.JPG" data-lightbox="abc"><img src="20240718_001.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <h3><span class="yellow"><br>～～～7月19日、3日で基礎だけになりました～～～<br><br></span></h3>
 
