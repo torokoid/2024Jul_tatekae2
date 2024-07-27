@@ -114,14 +114,22 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240726_005.JPG" data-lightbox="abc"><img src="20240726_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_006.JPG" data-lightbox="abc"><img src="20240726_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～26日午後の作業で、花壇が一段引っ込んでブロックのスペースが出来ました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月26日午後の作業で、花壇が一段引っ込んでブロックのスペースが出来ました～～～<br><br></span></h3>
 
 <a href="20240726_009.JPG" data-lightbox="abc"><img src="20240726_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_010.JPG" data-lightbox="abc"><img src="20240726_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240726_011.JPG" data-lightbox="abc"><img src="20240726_011.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月19日、3日で基礎だけになりました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月27日、ブロックが積み上がり始めました～～～<br><br></span></h3>
 
+<a href="20240727_101.JPG" data-lightbox="abc"><img src="20240727_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_102.JPG" data-lightbox="abc"><img src="20240727_102.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_103.JPG" data-lightbox="abc"><img src="20240727_103.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_104.JPG" data-lightbox="abc"><img src="20240727_104.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_105.JPG" data-lightbox="abc"><img src="20240727_105.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_106.JPG" data-lightbox="abc"><img src="20240727_106.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_107.JPG" data-lightbox="abc"><img src="20240727_107.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_108.JPG" data-lightbox="abc"><img src="20240727_108.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～7月20日、4日で基礎も無くなりました～～～<br><br></span></h3>
 
