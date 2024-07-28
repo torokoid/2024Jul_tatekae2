@@ -133,7 +133,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～7月28日、ブロック積み上げ完了、天板のコンクリート詰めは31日に実施予定～～～<br><br></span></h3>
 
-
+<!--
 <h3><span class="yellow"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
 
 
@@ -153,7 +153,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <h3><span class="yellow"><br>～～～7月25日、最後に仕上げて、解体作業完了です～～～<br><br></span></h3>
-
+-->
 
 
 <br><br><br><br><br><br>
