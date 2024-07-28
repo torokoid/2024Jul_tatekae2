@@ -131,7 +131,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240727_107.JPG" data-lightbox="abc"><img src="20240727_107.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240727_108.JPG" data-lightbox="abc"><img src="20240727_108.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～7月28日、ブロック積み上げ完了、天板のコンクリート詰めは31日に実施予定～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～7月28日、ブロック積み上げ完了、天板のコンクリート詰め残り部分は31日に実施予定～～～<br><br></span></h3>
 
 <!--
 <h3><span class="yellow"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
