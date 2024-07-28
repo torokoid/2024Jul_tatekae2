@@ -133,6 +133,18 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～7月28日、ブロック積み上げ完了、天板のコンクリート詰め残り部分は31日に実施予定～～～<br><br></span></h3>
 
+<a href="20240727_109.JPG" data-lightbox="abc"><img src="20240727_109.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_110.JPG" data-lightbox="abc"><img src="20240727_110.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_111.JPG" data-lightbox="abc"><img src="20240727_111.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_112.JPG" data-lightbox="abc"><img src="20240727_112.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_113.JPG" data-lightbox="abc"><img src="20240727_113.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_114.JPG" data-lightbox="abc"><img src="20240727_114.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_115.JPG" data-lightbox="abc"><img src="20240727_115.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_116.JPG" data-lightbox="abc"><img src="20240727_116.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_117.JPG" data-lightbox="abc"><img src="20240727_117.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_118.JPG" data-lightbox="abc"><img src="20240727_118.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_119.JPG" data-lightbox="abc"><img src="20240727_119.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
 <h3><span class="yellow"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
 
