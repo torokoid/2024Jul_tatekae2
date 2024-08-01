@@ -145,10 +145,13 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240727_118.JPG" data-lightbox="abc"><img src="20240727_118.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240727_119.JPG" data-lightbox="abc"><img src="20240727_119.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="yellow"><br>～～～7月31日、花壇を支えるブロック塀が完成～～～<br><br></span></h3>
+
+<a href="20240731_101.JPG" data-lightbox="abc"><img src="20240731_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_102.JPG" data-lightbox="abc"><img src="20240731_102.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_103.JPG" data-lightbox="abc"><img src="20240731_103.JPG" alt="サンプル画像" width="900" /></a>
+
 <!--
-<h3><span class="yellow"><br>～～～7月21日、5日でかなりサッパリ～～～<br><br></span></h3>
-
-
 <h3><span class="yellow"><br>～～～7月22日、解体作業もほぼ終盤です～～～<br><br></span></h3>
 
 
