@@ -92,6 +92,8 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <p align="left"> <span class="yellow">&nbsp;お隣の家が建て替え！</span></p>
+<p><a href="https://torokoid.github.io/2024Jul_tatekae1/" target="_blank">建て替え_1</a>>建て替え_2</a></p>
+
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
 <br><br>
 <p align="left"> <img src="tatekae.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
