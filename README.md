@@ -105,6 +105,8 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h3><span class="yellow"><br>～～～7月26日、お隣との境にある花壇の補強工事～～～<br><br></span></h3>
 
 <a href="20240726_007.JPG" data-lightbox="abc"><img src="20240726_007.JPG" alt="サンプル画像" width="900" /></a>
