@@ -100,12 +100,15 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h2><span class="yellow"><marquee behavior="left">!!! 2024年7月26日、お隣の家が建て替えになりました !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 <h3><span class="yellow"><br>～～～7月26日、お隣との境にある花壇の補強工事～～～<br><br></span></h3>
 
